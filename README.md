@@ -1,4 +1,17 @@
-# Trumpet Skeleton
+# Brassy Skeletons
+
+This repository is a fork from [Faecraft's updated Trumpet Skeleton mod](https://github.com/FaeCraft/trumpet-skeleton-redooted)
+
+It is, for all intents and purposes, mostly the same mod, with some changes:
+- Skeletons have a chance to spawn with TWO trumpets!  Currently does not actually affect what happens when they doot.
+- Trumpet Skeletons are now made of brass!
+- Trumpet Skeletons spawn with gold helmets.
+
+I have left the original README content from Faecraft's fork below for the sake of clarity.
+
+---
+
+### Trumpet Skeleton
 
 This repository is a fork of [the original Trumpet Skeleton mod](https://github.com/JamiesWhiteShirt/trumpet-skeleton) 
 and contains a direct port of [the Fabric version of Trumpet Skeleton](https://github.com/JamiesWhiteShirt/trumpet-skeleton-fabric), 
